@@ -1,0 +1,21 @@
+{
+  "status": "In the library",
+  "date of return": true,
+  "users": [
+    {
+      "title": "Alchemists Secret",
+      "id": 1,
+      "full_name": "John Doe",
+      "faculty": "Engineering",
+      "term": "2021-30-03"
+    },
+    {
+      "title": "Heretic's Treasure",
+      "id": 2,
+      "full_name": "Jane Doe",
+      "faculty": "Math",
+      "term": "2021-01-04"
+    }
+  ]
+}
+  

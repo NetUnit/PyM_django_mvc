@@ -1,0 +1,26 @@
+[   {
+    "id": 1,
+    "genre": "fiction",
+    "title": "Alchemists Secret",
+    "author": "Scott Mariani",
+    "ISBN": "978-1-84756-340-8"
+    }, {
+    "id": 2,
+    "genre": "fiction",
+    "title": "Heretics Treasure",
+    "author": "Scott Mariani",
+    "ISBN": "978-1-84756-082-7"
+    }, {
+    "id": 3,
+    "genre": "fiction",
+    "title": "The Mozart Conspiracy",
+    "author": "Scott Mariani",
+    "ISBN": "978-1-84756-083-8"
+    }, {
+    "id": 4,
+    "genre": "fiction",
+    "title": "The Doomsday Prophecy",
+    "author": "Scott Mariani",
+    "ISBN": "978-1-84756-084-9"
+    }
+]
